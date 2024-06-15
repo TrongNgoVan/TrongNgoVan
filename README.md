@@ -19,20 +19,9 @@ I'm student of Information Technology at the PTIT ( Posts and Telecommunications
 - 💼 :  I’m currently working on PTIT
 - ❤️ :  I'm passionate about Data Science and Artificial Intelligence
 - 💬 Ask me about anything [here](https://www.facebook.com/ngovantrong1308?locale=vi_VN)
-- 📺 Watch me on [![YouTube](https://www.youtube.com/@Trong_NV)
+- 📺 Watch me on [YouTube](https://www.youtube.com/@Trong_NV)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
 
 <br />
 <br />
-
-<a href="https://twitter.com/TrongNgoVan">
-  <img align="right" alt="Ngọ Văn Trọng | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/TrongNgoVan">
-  <img align="right" alt="Ngọ Văn Trọng | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>

@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-<p align="center"><a href="https://www.facebook.com/ngovantrong1308?locale=vi_VN">< Hello, I'm Trong , Ngo Van. I do open source!  /></a></p>
+<p align="center">
+  <a href="https://www.facebook.com/ngovantrong1308?locale=vi_VN" style="text-decoration: none;">
+    <span style="font-size: 24px; font-weight: bold; color: #0366d6;">
+      Hello, I'm Trong, Ngo Van. I do open source!
+    </span>
+  </a>
+</p>
+
 
 <br />
 

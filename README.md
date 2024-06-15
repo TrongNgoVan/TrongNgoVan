@@ -10,15 +10,15 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <a href="https://github.com/TrongNgoVan/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Trong Ngo Van's GitHub Stats" />
   </a>
-  <a href="https://github.com/TrongNgoVan/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongNgoVan&layout=compact&theme=buefy&hide_border=true">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongNgoVan&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
-| ------------- | ------------- |
+
 
 <br />
 

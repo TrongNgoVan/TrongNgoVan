@@ -13,7 +13,7 @@
 <div align="center">
   <h2>📊 Trong Ngo Van's GitHub Status</h2>
     <a href="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&hide=contribs" alt="GitHub Stats" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongNgoVan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" target="_blank">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongNgoVan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />

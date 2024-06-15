@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center"><a href="https://www.facebook.com/ngovantrong1308?locale=vi_VN"><img width="80%" alt="Hello, I'm Trong , Ngo Van. I do open source!"  /></a></p>
+<p align="center"><a href="https://www.facebook.com/ngovantrong1308?locale=vi_VN">< alt="Hello, I'm Trong , Ngo Van. I do open source!"  /></a></p>
 
 <br />
 

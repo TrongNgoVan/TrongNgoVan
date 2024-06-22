@@ -1,5 +1,4 @@
 
-
 ## Welcome to Trong Ngo Van's GitHub Profile 👋
 
 <p align="center">
@@ -19,9 +18,9 @@
 
 ---
 
-**About me**
-- 💼 :  I’m currently working on PTIT (Posts and Telecommunications Institute of Technology).
-- ❤️ :  I'm passionate about Data Science and Artificial Intelligence
+## About me ##
+- 💼 :  I’m currently studying on PTIT (Posts and Telecommunications Institute of Technology).
+- ❤️ :  I'm researching about Data Science and Artificial Intelligence
 - 💬 Ask me about anything [Facebook](https://www.facebook.com/ngovantrong1308?locale=vi_VN) 
 - 📺 Watch me on [YouTube](https://www.youtube.com/@Trong_NV) 
 

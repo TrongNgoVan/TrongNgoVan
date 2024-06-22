@@ -11,9 +11,18 @@
 
 <div align="center">
   <h2>📊 Trong Ngo Van's GitHub Status</h2>
-    <a href="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&hide=prs,issues,contribs" alt="GitHub Stats" />
+    <a href="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=vue&hide_border=false&include_all_commits=false&count_private=false" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=TrongNgoVan&theme=vue&hide_border=false&include_all_commits=false&count_private=false&hide=contribs" alt="GitHub Stats" />
     </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongNgoVan&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" target="_blank">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongNgoVan&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </a>
+</div>
+
+<div align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=TrongNgoVan&theme=vue&hide_border=false" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrongNgoVan&theme=vue&hide_border=false" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---

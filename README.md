@@ -1,12 +1,10 @@
 
-## Welcome to Trong Ngo Van's GitHub Profile 👋
 <p align="center">
    <a href="https://www.facebook.com/ngovantrong1308?locale=vi_VN" target="_blank" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=1000&pause=100&multiline=true&width=500&height=100&lines=I'm+Trong%2C+Ngo+Van.;I+research+about+Data+Science+and+AI!+%F0%9F%9A%80" 
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=1000&pause=100&multiline=true&width=500&height=70&lines=I'm+Trong%2C+Ngo+Van.;I'm+researching+about+Data+Science+and+AI!+%F0%9F%9A%80" 
       alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/TrongNgoVan">
     <img src="https://github-stats-alpha.vercel.app/api?username=TrongNgoVan&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
